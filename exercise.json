@@ -1,0 +1,37 @@
+[
+  {
+    "name": "node",
+    "author": "umair",
+    "tags": ["backend", "security"],
+    "price": 400,
+    "ispublished": true
+  },
+  {
+    "name": "react",
+    "author": "ali",
+    "tags": ["frontend", "style"],
+    "price": 300,
+    "ispublished": false
+  },
+  {
+    "name": "java",
+    "author": "uzair",
+    "tags": ["backend", "privacy"],
+    "price": 250,
+    "ispublished": true
+  },
+  {
+    "name": "CPP",
+    "author": "rayyan",
+    "tags": ["frontend", "css"],
+    "price": 600,
+    "ispublished": false
+  },
+  {
+    "name": "python",
+    "author": "hammad",
+    "tags": ["backend", "security", "privacy"],
+    "price": 500,
+    "ispublished": true
+  }
+]
